@@ -1,6 +1,6 @@
-# Pi-hole Blocklists
+# Pi-hole Blocklist
 
-Custom Pi-hole blocklists for ads, telemetry, tracking, and unwanted domains.
+Custom Pi-hole blocklist for ads, telemetry, tracking, and unwanted domains.
 
 ## Features
 
